@@ -2,6 +2,8 @@
 import os
 import sys
 
+# added this comment
+
 if __name__ == "__main__":
     os.environ.setdefault("DJANGO_SETTINGS_MODULE", "superlists.settings")
 
